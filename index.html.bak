@@ -1,0 +1,42 @@
+<html>
+	<style type="text/css">
+		p.a {color:#3377EE;margin: 3px;}
+		div.b {background-color: #EEEEEE;
+		}
+	</style>
+	<head>
+		<title>My page</title>
+	</head>
+	<body bgcolor=EEEEEE>
+		<div class="b">
+		<p class="a">hello world!</p>
+		<audio controls>
+			<source src="26 - Futari no Kimochi.flac">
+		</audio>
+		<br><br>
+		<audio controls>
+			<source src="(02) [koutaq] Óè¸Ð.flac">
+		</audio>
+		<br><br>
+		<audio controls>
+			<source src="ÁÖº£ - »¶Çß - ´¿ÒôÀÖ°æ.flac">
+		</audio>
+		<br><br>
+		<audio controls>
+			<source src="S.E.N.S. - Palace Memories.flac">
+		</audio>
+		<br><br>
+		<audio controls>
+			<source src="øB¤ÎÔŠ.flac">
+		</audio>
+		<br><br>
+		<audio controls>
+			<source src="Shirfine - Endless Daydream.02 - Illusionary Daytime.flac">
+		</audio>
+		<br><br>
+		<audio controls>
+			<source src="15. Ecco - in cherrycloud.flac">
+		</audio>
+		</div>
+	</body>
+</html>
